@@ -21,7 +21,7 @@ const portfolioData = {
     phone: "6300760749",
     location: "Visakhapatnam",
     profileImage: "https://drive.google.com/file/d/1Gmi8jBEhQTqParDtmzjUWd_uszNZVXOt/view?usp=sharing",
-    resumeLink: "{{RESUME_LINK}}",
+    resumeLink: "https://drive.google.com/file/d/1Jgirxh3lE5Xcz5t_kdJFl64zNrPA7NJq/view?usp=sharing",
   },
 
   // ---------------------------------------------------------
